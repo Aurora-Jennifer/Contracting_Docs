@@ -8,64 +8,66 @@ This document provides a clear statement of my current business formation status
 
 At this time:
 
-- I do **not** currently have an active LLC or formal business entity.
+- My **LLC has been filed** and is currently being processed by the state.  
+- My **EIN has been filed** and will be issued shortly (typical issuance time: 1–4 days).  
 - I do **not** yet have business insurance (General Liability or Professional Liability / E&O).
 
-These items are in progress and are being set up as part of my transition into formal consulting and contracting work.
-
-No billable work will begin until all business formation and insurance requirements are fully completed.
+Business formation is now in its final stage. No billable work will begin until insurance, banking, and compliance steps are completed.
 
 ---
 
 ## 2. Steps in Progress
 
-### 2.1 LLC Formation
-I am in the process of forming a single-member LLC to ensure:
+### 2.1 LLC Formation — *Filed, Awaiting Confirmation*
+My single-member LLC has been submitted and is currently undergoing state processing.  
+Once approved, this will provide:
 - proper legal structure  
 - personal liability protection  
 - clean invoicing and contracting  
 - eligibility for insurance and business banking  
 
-### 2.2 EIN Registration
-An Employer Identification Number (EIN) will be obtained to support:
+### 2.2 EIN Registration — *Filed, Pending Issuance*
+My Employer Identification Number (EIN) application has been filed with the IRS.  
+Typical completion time is **1–4 days**, depending on IRS processing.
+
+The EIN will support:
 - tax reporting  
 - invoicing  
 - business bank account setup  
 
-### 2.3 Business Insurance
-I am preparing to obtain:
+### 2.3 Business Insurance — *Next Step*
+Once the LLC and EIN are finalized, I will obtain:
 - General Liability coverage  
 - Professional Liability / Errors & Omissions (E&O) coverage  
 
-These policies are required before beginning any paid ML, software, or systems consulting.
+### 2.4 Business Banking — *Pending EIN*
+A dedicated business bank account will be opened as soon as:
+- LLC documentation is received  
+- EIN is issued  
 
-### 2.4 Business Banking
-A dedicated business bank account will be opened once the LLC formation and EIN issuance are completed.
+This account will be used for all consulting transactions.
 
 ### 2.5 Business Email (Planned Upgrade)
-A dedicated, domain-backed business email (e.g., `@companyname.com`) will be created **once the LLC and business banking are finalized**.  
-This ensures:
+A dedicated, domain-backed business email (e.g., `@companyname.com`) will be created after banking is established to ensure:
 - proper branding  
-- separation of personal and business communication  
-- compliance with enterprise client expectations  
-- secure communication channels  
+- separation of personal/business communication  
+- compliance with enterprise expectations  
+- secure channels  
 
-Until then, professional communication occurs through a temporary address.
+Until then, communication occurs through a temporary address.
 
 ---
 
 ## 3. Expected Completion Window
 
-Because these steps depend on state processing times and insurer availability, exact dates cannot be guaranteed.
+Current official estimates:
 
-Typical ranges are:
-
-- **LLC formation:** 1–10 business days  
-- **EIN:** immediate to 1–2 weeks  
+- **LLC formal approval:** typically 1–10 business days from filing  
+- **EIN:** typically 1–4 days from filing  
 - **Insurance underwriting:** same day to 72 hours after application  
-- **Business bank account:** same day once LLC and EIN are finalized  
+- **Business bank account:** same day once LLC documents & EIN are available  
 
-Progress updates will be provided as each milestone is completed.
+Updates will be provided as each milestone is completed.
 
 ---
 
@@ -75,7 +77,7 @@ To ensure full compliance and protection for both client and contractor:
 
 **No billable or contractually binding work will begin until the following are complete:**
 
-1. LLC formed  
+1. LLC formally approved  
 2. EIN issued  
 3. Business insurance active  
 4. Business bank account established  
@@ -83,8 +85,6 @@ To ensure full compliance and protection for both client and contractor:
 6. Master Consulting Agreement (MCA) signed  
 7. Statement of Work (SOW) approved  
 8. Upfront payment or retainer (if applicable) processed  
-
-This ensures proper legal, financial, and risk-management structures before engagement begins.
 
 ---
 
