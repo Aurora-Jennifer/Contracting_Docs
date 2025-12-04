@@ -1,114 +1,94 @@
-# STATEMENT OF WORK (SOW) TEMPLATE
+Purpose: This Statement of Work (SOW) defines a specific project engagement under the Master Consulting Agreement (MCA). Each SOW describes the deliverables, timeline, scope, and acceptance criteria for a discrete consulting project.
 
-**Purpose:** This template is used to define specific project engagements under the Master Consulting Agreement. Each SOW outlines deliverables, timeline, rates, and acceptance criteria for a discrete consulting project.
-
----
-
-**SOW Number:** ____  
-**Project Title:** ____  
-**Client:** ____ (Organization Name)  
-**Consultant:** Jennifer Lewis  
-**Effective Date:** ____
-
-⸻
+SOW Number: ____
+Project Title: ____
+Client: ____ (Organization Name)
+Consultant: Jennifer Lewis — Fox ML Infrastructure LLC
+Effective Date: ____
 
 1. Scope of Work
 
 Describe the services to be provided. Examples:
-	•	Machine learning pipeline development
-	•	Quantitative research
-	•	C++ inference integration
-	•	HPC optimization
-	•	Leakage-prevention audits
-	•	Data processing pipelines
-	•	Multi-model or cross-sectional architecture
-	•	System design or migration
-	•	Custom UI or dashboard tooling
 
-⸻
+Machine learning pipeline development
+
+Quantitative research methodology
+
+High-performance infrastructure optimization
+
+Internal integrations with the Fox ML Infrastructure (Fox-v1-infra) system
+
+Leakage-prevention audits
+
+HPC workflow development
+
+Custom C++/Python systems
 
 2. Deliverables
 
-Provide a list of deliverables, such as:
-	•	Custom models or architectures
-	•	End-to-end data pipelines
-	•	Research or feature engineering modules
-	•	Documentation
-	•	Deployment or integration scripts
-	•	HPC or latency-optimized builds
-	•	Compliance or license tooling
+List concrete deliverables, such as:
 
-⸻
+Custom architectures or models
+
+End-to-end ML/quant pipelines
+
+Feature engineering modules
+
+Documentation and integration notes
+
+Deployment or orchestration code
+
+Infrastructure-optimized builds
 
 3. Timeline & Milestones
 
-Define expected schedule and milestone points.
-
-⸻
+Define expected schedule and milestone checkpoints.
 
 4. Client Obligations & Prerequisites
 
-To ensure project success, the Client agrees to provide the following prior to the Project Start Date:
+To ensure project success, the Client agrees to provide before the Project Start Date:
 
-* **Remote Access:** Stable VPN or Mesh Network (e.g., Tailscale) access to the target machine.
+Remote Access: Secure VPN/mesh access (e.g., Tailscale) to target hardware.
 
-* **Hardware Validation:** Verification that the target machine meets the minimum memory/compute requirements for the specified model size (e.g., 24GB+ VRAM).
+Hardware Validation: Confirmation that compute meets requirements.
 
-* **Environment:** A clean Linux environment (Ubuntu 22.04 recommended) with `sudo` privileges provided to the Consultant.
+Environment: Clean Linux environment (Ubuntu 22.04+) with sudo privileges.
 
-* **Data Access:** Necessary API keys or dataset access required for pipeline ingestion.
+Data Access: All datasets, credentials, and API keys required.
 
-*Delays in providing these prerequisites will result in a day-for-day shift of the delivery timeline.*
-
-⸻
+Delays will extend the delivery timeline proportionally.
 
 5. Rate & Payment
 
 Hourly Rate: $____/hr
-(Note: Base rate is $300/hr; complex projects may be billed at a higher rate per CONSULTING_POLICY.md)
-Billing: Weekly / Biweekly / Monthly
+Billing Cycle: Weekly / Biweekly / Monthly
 Terms: Net 15
-Payment Method: Bank transfer / PayPal / Stripe / Other
-
-⸻
+Payment Method: Bank transfer / Stripe / Other
 
 6. Intellectual Property
-	•	Consultant retains ownership of all underlying IP.
-	•	Client receives an internal-use license for deliverables created under this SOW.
-	•	No commercial trading rights or Aurora-v2 rights are transferred.
 
-⸻
+Consultant retains ownership of all Fox ML Infrastructure (Fox-v1-infra) systems, pipelines, and pre-existing IP.
+
+Client receives an internal-use license to deliverables developed under this SOW.
+
+No commercial distribution or external access rights are transferred.
 
 7. Confidentiality
 
 Standard confidentiality obligations per MCA apply.
 
-⸻
-
 8. Acceptance Criteria
 
-Deliverables will be considered accepted unless written objection is provided within 7 days of delivery.
-
-⸻
+Deliverables are considered accepted unless written objections are provided within 7 days of delivery.
 
 9. Signatures
 
-**Consultant:**
-__________________________________  
-Jennifer Lewis  
+Consultant:
+Jennifer Lewis — Fox ML Infrastructure LLC
 Date: ________
 
-**Client:**
-__________________________________  
-[Name]  
-[Title]  
-[Organization Name]  
+Client:
+Name: ____________________
+Title: ____________________
+Organization: ____________________
 Date: ________
-
----
-
-## Related Documents
-
-- [`MASTER_CONSULTING_AGREEMENT.md`](MASTER_CONSULTING_AGREEMENT.md) — Standard agreement framework
-- [`CONSULTING.md`](CONSULTING.md) — Overview of services and engagement process
-- [`CONSULTING_POLICY.md`](CONSULTING_POLICY.md) — Professional terms, rates, and policies
