@@ -7,12 +7,12 @@ This document provides a clear statement of my current business formation status
 1. Current Status
 
 As of today:
-	•	My LLC is officially formed and active in the State of Alabama.
-	•	My EIN application is submitted and currently pending issuance (typical IRS processing: 1–4 days).
-	•	My business bank account will be opened immediately once the EIN is issued.
-	•	I do not yet have business insurance (General Liability or Professional Liability/E&O), which will be obtained after banking is established.
+	•	My LLC is officially formed and active in the State of Alabama. ✓
+	•	My EIN has been issued. ✓
+	•	My business bank account is open and active. ✓
+	•	I do not yet have business insurance (General Liability or Professional Liability/E&O), which is the final remaining compliance requirement.
 
-No billable work will begin until the remaining compliance steps are complete.
+No billable work will begin until business insurance is obtained.
 
 ⸻
 
@@ -28,26 +28,26 @@ This provides:
 	•	clean invoicing and contracting
 	•	eligibility for insurance and business banking
 
-2.2 EIN Registration — Filed, Pending Issuance
+2.2 EIN Registration — Completed ✓
 
-My Employer Identification Number (EIN) application has been filed and is awaiting IRS processing.
+My Employer Identification Number (EIN) has been issued and is active.
 
-Once issued, it will enable:
+This enables:
 	•	business bank account setup
 	•	tax reporting
 	•	formal invoicing
 
-2.3 Business Banking — Pending EIN
+2.3 Business Banking — Completed ✓
 
-A dedicated business bank account will be opened immediately once my EIN is issued, using:
+A dedicated business bank account has been opened and is active, using:
 	•	Articles of Organization
 	•	EIN documentation
 
-This account will be used exclusively for consulting transactions.
+This account is used exclusively for consulting transactions.
 
-2.4 Business Insurance — Next Step After Banking
+2.4 Business Insurance — In Progress
 
-Once the business bank account is active, I will obtain:
+I am currently obtaining:
 	•	General Liability coverage
 	•	Professional Liability / Errors & Omissions (E&O) coverage
 
@@ -63,11 +63,11 @@ Until then, communication will continue through a temporary address.
 ⸻
 
 3. Expected Completion Window
-	•	EIN issuance: 1–4 business days
-	•	Business bank account: same day once EIN is issued
-	•	Insurance underwriting: same day to 72 hours after application
+	•	EIN issuance: ✓ Completed
+	•	Business bank account: ✓ Completed
+	•	Insurance underwriting: In progress (typically same day to 72 hours after application)
 
-Updates will be provided as each milestone is completed.
+Updates will be provided when insurance coverage is obtained.
 
 ⸻
 
@@ -75,9 +75,9 @@ Updates will be provided as each milestone is completed.
 
 To ensure compliance and protection for both client and contractor, no billable or contractually binding work will begin until the following are complete:
 	1.	LLC active — ✔ Completed
-	2.	EIN issued
-	3.	Business bank account open
-	4.	Business insurance active
+	2.	EIN issued — ✔ Completed
+	3.	Business bank account open — ✔ Completed
+	4.	Business insurance active — In progress
 	5.	Business email (if required)
 	6.	Master Consulting Agreement (MCA) signed
 	7.	Statement of Work (SOW) approved

@@ -9,13 +9,13 @@ These materials are provided to help prospective clients evaluate professionalis
 
 As of now:
 
-- **Fox ML Infrastructure LLC is officially formed and active.**  
+- **Fox ML Infrastructure LLC is officially formed and active.** ✓  
 - Primary ML/infra engineering product line: **Fox-v1-infra**.  
-- **EIN issuance is pending** (filed with IRS, 1–4 day processing window).  
-- A **business bank account will be opened** immediately once the EIN is issued.  
-- **Business insurance (General Liability + E&O)** will be acquired after banking is established.  
+- **EIN has been issued.** ✓  
+- **Business bank account is open and active.** ✓  
+- **Business insurance (General Liability + E&O) is pending** — will be acquired to complete compliance requirements.  
 
-No billable or contractually binding work will begin until all compliance requirements—banking, insurance, and agreement documents—are completed.
+No billable or contractually binding work will begin until business insurance is obtained and all compliance requirements—insurance and agreement documents—are completed.
 
 ---
 
@@ -100,7 +100,7 @@ These demonstrate engineering style, architectural decisions, and domain experti
 3. **For licensing inquiries**, see `legal/SUBSCRIPTIONS.md`.  
 4. **If the project appears aligned**, schedule an introductory meeting to discuss goals and constraints.  
 5. **A customized Statement of Work (SOW)** will be drafted based on project requirements.  
-6. **Work begins** once the SOW and Master Consulting Agreement (MCA) are approved and compliance items (LLC, EIN, insurance, banking) are complete.
+6. **Work begins** once the SOW and Master Consulting Agreement (MCA) are approved and business insurance is obtained.
 
 ---
 

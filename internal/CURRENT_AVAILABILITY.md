@@ -35,15 +35,18 @@ This is to ensure that all engagements occur under proper legal and insurance pr
 
 ## 3. Business Formation Status
 
-I am in the process of completing the following requirements:
+I have completed the following requirements:
 
-- LLC formation  
-- EIN registration  
-- Business bank account setup  
-- General Liability insurance  
-- Professional Liability / Errors & Omissions (E&O) insurance  
+- LLC formation — ✓ Completed  
+- EIN registration — ✓ Completed  
+- Business bank account setup — ✓ Completed  
 
-These items must be finalized before any contractually binding or billable work begins.
+The following remains pending:
+
+- General Liability insurance — In progress  
+- Professional Liability / Errors & Omissions (E&O) insurance — In progress  
+
+Business insurance must be obtained before any contractually binding or billable work begins.
 
 Further detail on this process is provided in the separate **Business Formation and Insurance Status** document.
 
@@ -82,14 +85,13 @@ These activities require full insurance and legal structure in place.
 
 ## 6. Expected Transition to Full Readiness
 
-Once the following steps are complete:
+The following steps are complete:
 
-1. LLC formed  
-2. EIN received  
-3. Business bank account active  
-4. General Liability + E&O coverage issued  
+1. LLC formed — ✓  
+2. EIN received — ✓  
+3. Business bank account active — ✓  
 
-I will be prepared to:
+Once business insurance (General Liability + E&O coverage) is issued, I will be prepared to:
 
 - conduct formal scoping meetings  
 - prepare a Statement of Work  
@@ -109,6 +111,6 @@ At this stage, I am open to:
 - determining fit  
 - preparing for future engagements  
 
-However, **no formal or billable work** will begin until business formation and insurance coverage are fully established.
+However, **no formal or billable work** will begin until business insurance coverage is obtained.
 
 Clients are welcome to initiate early conversations, and I will provide updates as each compliance milestone is completed.
